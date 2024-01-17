@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface IElectrico {
+public interface IElectrico {
+    public void atacarImpactrueno();
+    public void atacarPunioTrueno();
 }

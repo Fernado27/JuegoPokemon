@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public interface IFuego {
+public interface IFuego {
+    public void atacarPunioFuego();
+    public void atacarLanzallamas();
+    public void atacarAscuas();
+
+
 }
